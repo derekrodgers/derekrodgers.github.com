@@ -1,0 +1,5 @@
+---
+title: "Data by Derek"
+---
+
+Welcome to Data by Derek! To learn more, visit the [About page](about.qmd).
